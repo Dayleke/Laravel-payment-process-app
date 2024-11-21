@@ -9,4 +9,4 @@ Integrate payment gateways such as PayPal and Stripe to receive online payments 
 
 ## License
 
-You can use this project to deepen your knowledge and use it as a guide while you follow the course.
+You can use this project to deepen your knowledge.
